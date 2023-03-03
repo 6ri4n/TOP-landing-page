@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    display: flex;
+    margin: 1% 15%;
+    color: white;
+}
+
+.logo {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.tabs {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.tabs span {
+    margin: 0 10px;
+}
+
+.content1 {
+    height: 400px;
+}
+
+.content2 {
+    height: 400px;
+    background-color: white;
+}
+
+.content3 {
+    height: 400px;
+    background-color: #E5E7EB;
+}
+
+.content4 {
+    height: 400px;
+    background-color: white;
+}
+
+footer {
+    height: 100px;
+}
