@@ -10,7 +10,7 @@ a {
 
 nav {
     display: flex;
-    margin: 1% 15%;
+    margin: 1% 20%;
     color: white;
 }
 
@@ -28,28 +28,9 @@ nav {
 }
 
 .tabs span {
-    margin: 0 10px;
+    margin-left: 2%;
 }
 
-.content1 {
-    height: 400px;
-}
-
-.content2 {
-    height: 400px;
-    background-color: white;
-}
-
-.content3 {
-    height: 400px;
-    background-color: #E5E7EB;
-}
-
-.content4 {
-    height: 400px;
-    background-color: white;
-}
-
-footer {
-    height: 100px;
+.tabs span a {
+    color: #E5E7EB;
 }
